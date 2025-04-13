@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Falcon8317
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning C++
 - 📫 You can contact me 77pxfalcon@gmail.com
 
 <!---
